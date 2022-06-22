@@ -1,0 +1,23 @@
+.Foot_main {
+    height: 8rem;
+    padding-top: 3rem;
+    background-color: rgb(65, 65, 65);
+}
+
+
+/* .user_link {
+    text-align: center;
+} */
+
+.user_link .user_box{
+    /* float: left; */
+    width: 33%;
+    /* left: 50%; */
+    position: absolute;
+    display: inline-block;
+}
+
+.user_link img {
+    width: 8%;
+    height: 8%;
+}
