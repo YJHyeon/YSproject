@@ -1,0 +1,9 @@
+.box{
+    height:100%;
+    width: 30%;
+    position: fixed;
+    float: left;
+    left: -30%;
+    background-color: antiquewhite;
+    z-index: 400;
+}
