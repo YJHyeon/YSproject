@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
   margin: 0px;
@@ -219,3 +220,54 @@ i:hover {
   -o-transform: rotateY(180deg);
   transform: rotateY(180deg);
 }  
+=======
+.header {
+    width:100%;
+    height: 80px;
+    background-color: rgb(56,56,62);
+    position: fixed;
+}
+.cat{
+    float:right;
+    width:10%;
+    text-align: center;
+    color:lightgray;
+    display:inline-block;
+    height:50%;
+    line-height: 80px;
+}
+.cat a{
+    color:white;
+    pointer-events: painted;
+}
+.cat a:hover{
+    color:pink;
+}
+.cat:hover{
+    background-color: rgb(74, 74, 82);
+}
+.je{
+    float:left;
+    width:10%;
+    text-align: center;
+    color:lightgray;
+    display:inline-block;
+    height:100%;
+    line-height: 80px;
+}
+.je a{
+    color:white;
+    pointer-events: painted;
+}
+.je a:hover{
+    color:pink;
+}
+.je:hover{
+    background-color: rgb(74, 74, 82);
+}
+
+.category {
+    top: 50%;
+    
+}
+>>>>>>> 92ee19f3bb0c21fcb8e186b30f717912c6662a60
